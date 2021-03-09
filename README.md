@@ -1,7 +1,7 @@
 # MKGCN
 **MKGCN: a novel method for microbe-drug associations prediction via multiple kernel fusion on graph neural network.**
 
-![contents](http://yhpjc.vip/download/MKGCN/flowchart.pdf)
+![image](http://yhpjc.vip/download/MKGCN/flowchart.png)
 
 # Dataset
 1)MDAD: including 5505 clinically or experimentally verified microbe-drug associations, between 1388 drugs and 174 microbes;
