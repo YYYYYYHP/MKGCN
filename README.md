@@ -4,7 +4,7 @@
 ![image](http://yhpjc.vip/download/MKGCN/flowchart.png)
 
 # Dataset
-1)MDAD: including 5505 clinically or experimentally verified microbe-drug associations, between 1388 drugs and 174 microbes;
+1)MDAD: including 2470 clinically or experimentally verified microbe-drug associations, between 1373 drugs and 173 microbes;
 
 2)aBiofilm: including resource of anti-biofilm agents and their potential implications in antibiotic drug resistance;
 
